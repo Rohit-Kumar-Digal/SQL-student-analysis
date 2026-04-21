@@ -14,10 +14,10 @@ Analyze student data using SQL to identify trends and insights.
 
 ## 📈 Key Insights
 
-* Higher attendance leads to better performance
-* Some cities perform better
-* Few students are below average
-* Subject performance varies
+* Students with higher attendance tend to score better marks
+* Performance varies across cities, with some cities having higher top scorers
+* A portion of students are below average and need improvement
+* Subject-wise performance differences indicate varying difficulty levels
 
 ## 🛠 Tools Used
 
